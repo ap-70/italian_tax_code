@@ -1,26 +1,13 @@
-# My plugin
+<h1 align="center" id="title">Calculate Italian Tax Code</h1>
 
-[![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=383938&style=for-the-badge&logo=cheshire_cat_ai)](https://)  
-[![Awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=Awesome+plugin&color=000000&style=for-the-badge&logo=cheshire_cat_ai)](https://)  
-[![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=F4F4F5&style=for-the-badge&logo=cheshire_cat_black)](https://)
+[![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=F4F4F5&style=for-the-badge&logo=cheshire_cat_black)](https://cheshirecat.ai)
 
-Write here all the useful information about your plugin.
+<p id="description">This plugin use CatForm to requires the information needed to calculate the Italian Tax Code. The tax code is a code used for tax and administrative purposes to uniquely identify Italian citizens. This plugin is valid only for those born in a municipality in Italy. Type "calcola il codice fiscale" to run the plugin... It is possible for two people to have the same tax code, but in this case the Revenue Agency will replace some characters to resolve the ambiguity. This calculation of the tax code does not consider the rare cases of homocody (more frequent for foreign citizens) and related corrections known only to the Revenue Agency.</p>
 
-This repository is the template to automate the release of official Cheshire Cat AI plugins. 
+<h2>🛠️ Installation:</h2>
 
-## Usage
+<p>1. Clone this repo and copy it on cat plugins folder</p>
+<p>2. Install from admin panel on the Cheshire Cat Web Admin</p>
 
-1. Create a new repository clicking on the `Use this template` button.
-2. Clone your new repo directly in the Cat's `plugins` folder.
-3. Run the `setup.py` script:
-```bash
-python setup.py
-```
-The script will prompt you to write the name of your plugin and make an initial setup setting the name in the files.
-
-4. Start developing!
-
-> **Important**
-> A new release of your plugin is triggered every time you set a new `version` in the `plugin.json` file.
-> Please, remember to set it correctly every time you want to release an update.
-
+<h2>🛡️ License:</h2>
+This project is licensed under the GNU GENERAL PUBLIC LICENSE
