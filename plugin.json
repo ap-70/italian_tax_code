@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Italian Tax Code",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "description": "Use CatForm to requires the information needed to calculate the tax code.",
+    "author_name": "Aldo Pederzolli",
+    "author_url": "https://github.com/ap-70",
+    "plugin_url": "https://github.com/ap-70/italian_tax_code",
+    "tags": "cat, plugins, form",
+    "thumb": "https://raw.githubusercontent.com/ap-70/italian_tax_code/main/CheshireCatGetInfo.png"
 }
