@@ -162,12 +162,12 @@ def validate_genere(value):
     return False
 
 class InfoMessage(BaseModel): #
-    nome: str
     cognome: str
-    data_di_nascita: str
-    genere: str
+    nome: str
+    genere: str  
     comune_di_nascita: str
     sigla_provincia: str
+    data_di_nascita: str
     
     @field_validator("data_di_nascita")
     @classmethod
